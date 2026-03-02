@@ -1,3 +1,5 @@
 src/build/
 src/dist/
 src/Random Warp.spec
+src/Random Warp GUI.spec
+src/__pycache__/
